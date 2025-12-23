@@ -3,11 +3,11 @@
 # 🛡️ PHP Shomer (שומר)
 
 <p align="center">
-  ![GitHub Repo stars](https://img.shields.io/github/stars/yd-shomer/php-shomer?style=social)
+  <img src="https://img.shields.io/github/stars/yd-shomer/php-shomer?style=social">
   <img src="https://img.shields.io/packagist/v/yd-shomer/php-shomer.svg" alt="Version">
   <img src="https://img.shields.io/packagist/dt/yd-shomer/php-shomer.svg" alt="Downloads">
   <img src="https://img.shields.io/packagist/l/yd-shomer/php-shomer.svg" alt="License">
-  ![GitHub clones](https://img.shields.io/badge/clones-40+-green)
+  <img src="https://img.shields.io/badge/clones-40+-green">
   <img src="https://img.shields.io/badge/PHP-7.4%2B-blue.svg" alt="PHP Version">
 </p>
 
